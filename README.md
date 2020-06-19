@@ -1,7 +1,9 @@
+Annotated files are in `annotation_files.zip` archive
+
 the annotation.conf is used for brat (https://github.com/nlplab/brat)
 
 
-So you may need to copy annotation_data.zip into `your_brat_folder/data`
+So you may need to copy `annotation_files.zip` contents into `your_brat_folder/data`
 
 
 annotation.conf should also be copied into `your_brat_folder/data`
