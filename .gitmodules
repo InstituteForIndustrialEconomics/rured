@@ -1,0 +1,3 @@
+[submodule "SpanBERT"]
+	path = SpanBERT
+	url = https://github.com/facebookresearch/SpanBERT/
